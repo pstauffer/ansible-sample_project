@@ -1,0 +1,4 @@
+---
+- src: https://github.com/pstauffer/ansible-sample_role2
+  scm: git
+  name: sample_role2

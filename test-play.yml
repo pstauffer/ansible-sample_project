@@ -1,0 +1,7 @@
+---
+- name: test play
+  hosts: localhost
+  connection: local
+  roles:
+    - sample_role2
+    - sample_role3
